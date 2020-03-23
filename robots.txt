@@ -10,6 +10,7 @@ Disallow: /
 
 #Outbound
 User-agent: *
+Allow: /favicon.ico
 Allow: /post
 Allow: /posts
 Allow: /post-images
